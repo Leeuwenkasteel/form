@@ -8,6 +8,7 @@ class Input extends Component{
     public $type;
     public $name;
     public $label;
+    public $value;
     public $min = null;
 
     public function render(){
